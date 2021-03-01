@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Jakub is a machine Learning Engineer with experience in research and industry. He led successful implementation of multiple machine learning use cases from prototype to production. Jakub received awards for academic work and he is a life-long learner and educator.
+Jakub is a Machine Learning Engineer with experience in research and industry. He was leading successful implementation of multiple machine learning use cases from prototype to production. Jakub received awards for academic work and he is a life-long learner and educator.
 
 <br>
 **Research topics**:
