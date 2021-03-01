@@ -1,11 +1,11 @@
 ---
-layout:     	post
 title:      	"[Book review] Make it stick"
-category:		books
-tag:			[review]
+categories:
+  - Books
+tags:
+  - review
+  - books
 comments: 		true
-author:     	"Jakub Mačina"
-header-img: 	"images/headers/make-it-stick.jpg"
 ---
 This [book](https://www.goodreads.com/book/show/18770267-make-it-stick) is about successful learning. I found it online as a recommended learning for a MOOC course about learning. Authors of the book are cognitive scientists. The ideas in the book was similar to me before, but the book put all of them together in one place and highlight the most important of them.
 <!--more-->

@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "[Research] Paper accepted at RecSys 2017"
-category: study
-author: "Jakub Mačina"
+categories:
+  - Research
+tags:
+  - research
 comments: true
 ---
 I attended the **11th ACM Recommender Systems conference (RecSys 2017)** which is leading international conference focused on research in recommender systems. 

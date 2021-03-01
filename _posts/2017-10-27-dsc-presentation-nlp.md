@@ -1,11 +1,12 @@
 ---
-layout:     	post
 title:      	"[Talk] Data Science Club"
-category:		presentation
-tag:			[presentation]
-author:     	"Jakub Mačina"
+categories:
+  - Talk
+tags:
+  - talk
 comments:       true
 ---
+My presentation Introduction to natural language processing.
 <!--more-->
 
 ![Data Science Club](https://www.fiit.stuba.sk/buxus/images/aktuality/2017/exponea_data-science-club4.jpg "Data Science Club"){:width="540px" .center} 

@@ -1,13 +1,12 @@
 ---
-layout:     	post
 title:      	"[Position] Teaching Assistant @ Slovak University of Technology"
-category:		position
-tag:			[position]
-author:     	"Jakub Mačina"
+categories:
+  - Research
+tags:
+  - research
 ---
-<!--more-->
-
 Started new position as a Teaching Assistant at Slovak University of Technology:
+<!--more-->
 
 - Fall 2018: Text-based Information Retrieval (MSc. level)
 - Spring 2019: Artificial Intelligence (BSc. level)

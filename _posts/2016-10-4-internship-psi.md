@@ -1,11 +1,12 @@
 ---
-layout:     	post
 title:      	"[Internship] Software Engineer @ Paul Scherrer Institute"
-category:		study
-tag:			[study]
-author:     	"Jakub Mačina"
-header-img: 	"images/headers/psi.jpg"
+categories:
+  - Work
+tags:
+  - internship
+  - work
 ---
+My internship at Paul Scherrer Institute.
 <!--more-->
 
 # PSI profile

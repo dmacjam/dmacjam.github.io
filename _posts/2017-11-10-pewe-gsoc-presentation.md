@@ -1,9 +1,9 @@
 ---
-layout:     	post
 title:      	"[Talk] Google Summer of Code Experience @ 22th PeWe OntoParty"
-category:		talk
-tag:			[talk]
-author:     	"Jakub Mačina"
+categories:
+  - Talk
+tags:
+  - talk
 ---
 <!--more-->
 
