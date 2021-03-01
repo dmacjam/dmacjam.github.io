@@ -1,12 +1,13 @@
 ---
-layout:     	post
 title:      	"[Travel] Switzerland 2016"
-category:		travel
-tag:			[travel]
-author:     	"Jakub Mačina"
-header-img: 	"images/headers/switzerland.jpg"
+categories:
+  - Travel
+tags:
+  - travel
+  - switzerland
+comments:       true
 ---
-This text summarizes summer 2016 which I spent on the internship in Switzerland.
+This text summarizes my travel in Switzerland during summer 2016.
 <!--more-->
 
 ## People

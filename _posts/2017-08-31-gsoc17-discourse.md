@@ -1,14 +1,15 @@
 ---
-published: true
-layout: post
 title: "[Internship] Google Summer of Code 2017 with Discourse"
-category: study
-author: Jakub Mačina
+categories:
+  - Work
+tags:
+  - internship
+  - work
 ---
-<!--more-->
-![Discourse](https://www.discourse.org/images/logo.png "Discourse logo"){:width="250px" .center} 
 
-[Google Summer of Code](https://summerofcode.withgoogle.com/) is a global student program focused on involving and spreading the word about open source software development. I spent great summer full of code with [Discourse](https://www.discourse.org/) community working on features related to advanced search. Discourse is a modern civilized discussion platform which is currently used by more thank 10 000 online communities worldwide (ranging from politics to hobbyist). 
+[Google Summer of Code](https://summerofcode.withgoogle.com/) is a global student program focused on involving and spreading the word about open source software development. <!--more-->I spent great summer full of code with [Discourse](https://www.discourse.org/) community working on features related to advanced search. Discourse is a modern civilized discussion platform which is currently used by more thank 10 000 online communities worldwide (ranging from politics to hobbyist). 
+
+![Discourse](https://www.discourse.org/images/logo.png "Discourse logo"){:width="250px" .center} 
 
 My work is summarized along with the code and weekly reports in the [final report](https://gist.github.com/dmacjam/66211e9149ad72537bc12d0e483ea9e1).
 

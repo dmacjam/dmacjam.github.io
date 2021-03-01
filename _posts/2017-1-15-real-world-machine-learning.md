@@ -1,14 +1,14 @@
 ---
-layout:     	post
 title:      	"[Review] Real World Machine Learning"
-category:		books
-tag:			[review]
+categories:
+  - Books
+tags:
+  - review
+  - books
 comments: 		true
-author:     	"Jakub Mačina"
-header-img: 	"images/headers/make-it-stick.jpg"
 ---
-<!--more-->
 The [book](https://www.manning.com/books/real-world-machine-learning) is divided into two parts. First part deals with machine learning workflow and the second part consists of five practical examples. The book is focused only on supervised machine learning, specifically regression, classification, recommendation and imputation. As the title says "real-world", it contains examples in Python with scikit-learn and pandas libraries which are the most popular libraries for machine learning in Python.
+<!--more-->
 
 ![Real World Machine Learning](https://images-na.ssl-images-amazon.com/images/I/41RwAqUhl5L._SX396_BO1,204,203,200_.jpg "Real World Machine Learning"){:width="200px" .center} 
 

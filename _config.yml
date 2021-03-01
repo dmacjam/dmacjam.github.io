@@ -1,72 +1,130 @@
-#Site settings
-name: Jakub Macina (@dmacjam)
-title: dmacjam's blog
-header-img: img/home-bg.jpg
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Jakub Macina
 email: jakub.macina@gmail.com
-description: Machine Learning Engineer
-avatar: https://avatars0.githubusercontent.com/u/5477556?v=3&s=460
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-url: http://dmacjam.github.io
-google_analytics: UA-67237247-1
+title_separator: "|"
+description: >- # this means to ignore newlines until "baseurl:"
+  Jakub Macina is a Machine Learning Engineer with experience in research and industry, 
+  working on topics such as recommender systems, NLP, information retrieval, learning sciences.
+twitter_username: dmacjam
+github_username: dmacjam
+minimal_mistakes_skin: default
+search: true
+url: "http://dmacjam.github.io"
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: jakub.macina@gmail.com
-  facebook: jakub.macina
-  flickr:
-  github: dmacjam
-  instagram: dmacjam
-  linkedin: jakubmacina
-  pinterest:
-  rss: dmacjam
-  twitter: dmacjam
-  stackoverflow: users/2591068/dmacjam
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes@4.22.0
+# Outputting
+permalink: /:categories/:title/
+paginate: 7 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: dmacjam-github-io
+include:
+  - _pages
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
+# Plugins (previously gems:)
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+author:
+  name   : "Jakub Macina"
+  avatar : "/assets/images/bio-photo.jpeg"
+  bio    : "Machine Learning Engineer & Researcher (recommender systems, NLP, information retrieval, learning sciences). Transforming the world through AI research."
+  email  : "jakub.macina@gmail.com"
+  links:
+    - label: "Exponea"
+      icon: "fas fa-fw fa-briefcase"
+      url: "https://www.linkedin.com/in/jakubmacina/"
+    - label: "MSc in Information Systems"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "/about"
+    - label: "BSc in Informatics"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "/about"
 
-excerpt_separator: <!--more-->
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dmacjam"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dmacjam"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jakubmacina/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=fJJTntwAAAAJ"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/2591068/jakub-macina"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-67237247-1"
+    anonymize_ip: false # default
+
+words_per_minute         : 200

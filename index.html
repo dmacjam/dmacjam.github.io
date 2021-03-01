@@ -1,23 +1,7 @@
 ---
-layout: default
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-	  {% if post.tags contains 'private' %}
-	  
-	  {% else %}
-	    <article class="post">
-
-	      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-	      <div class="entry">
-	        {{ post.excerpt }}
-	      </div>
-
-	      <p><small>{{ post.date | date_to_long_string }}</small></p>
-	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-	    </article>
-	  {% endif %}  
-  {% endfor %}
-</div>
