@@ -1,5 +1,5 @@
 ---
-title:      	"[Position] Teaching Assistant @ Slovak University of Technology"
+title:      	"[New position] Teaching Assistant @ Slovak University of Technology"
 categories:
   - Research
 tags:

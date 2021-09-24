@@ -17,8 +17,7 @@ title: Jakub Macina
 email: jakub.macina@gmail.com
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
-  Jakub Macina is a Machine Learning Engineer with experience in research and industry, 
-  working on topics such as recommender systems, NLP, information retrieval, learning sciences.
+  Jakub Macina is a Machine Learning Researcher working at the intersection of NLP and Learning Sciences.
 twitter_username: dmacjam
 github_username: dmacjam
 minimal_mistakes_skin: default
@@ -61,18 +60,12 @@ plugins:
 author:
   name   : "Jakub Macina"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Machine Learning Engineer & Researcher (recommender systems, NLP, information retrieval, learning sciences). Transforming the world through AI research."
+  bio    : "Machine Learning Researcher (NLP & Learning Sciences)."
   email  : "jakub.macina@gmail.com"
   links:
-    - label: "Exponea"
+    - label: "ETH AI Center"
       icon: "fas fa-fw fa-briefcase"
       url: "https://www.linkedin.com/in/jakubmacina/"
-    - label: "MSc in Information Systems"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "/about"
-    - label: "BSc in Informatics"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "/about"
 
 footer:
   links:

@@ -3,22 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Jakub is a Machine Learning Engineer with experience in research and industry. He was leading successful implementation of multiple machine learning use cases from prototype to production. Jakub received awards for academic work and he is a life-long learner and educator.
+Jakub is a Doctoral Fellow at ETH AI Center working on the intersection of Natural Language Processing (NLP) and Learning Sciences.
 
 <br>
 **Research topics**:
 - Recommender Systems
-- Natural Language Processing
-- Learning Sciences
+- Natural Language Processing in Learning Sciences
 
 <br>
 **Interests**: 
 - Machine Learning
-- Data Mining
 - Information Retrieval
-- Neural Networks
 - Natural Language Processing
-- Contextual bandits
+- Contextual Bandits
 
 <br>
 **Technologies**:
@@ -31,8 +28,8 @@ Jakub is a Machine Learning Engineer with experience in research and industry. H
 
 <br>
 **Free time**:
-- soccer
-- biking
+- football
+- mountain biking
 - traveling
 - yoga
 
