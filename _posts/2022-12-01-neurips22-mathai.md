@@ -5,7 +5,7 @@ categories:
 tags:
   - research
 ---
-Jakub Macina*, Kumar Shridhar*, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur, and Mrinmaya Sachan.
+Jakub Macina&ast;, Kumar Shridhar&ast;, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur, and Mrinmaya Sachan.
 <!--more-->
 
 
