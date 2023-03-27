@@ -5,7 +5,7 @@ categories:
 tags:
   - research
 ---
-Jakub Macina&ast;, Kumar Shridhar&ast;, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur, and Mrinmaya Sachan.
+Jakub Macina\*, Kumar Shridhar\*, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur, and Mrinmaya Sachan.
 In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4136–4149, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
 <!--more-->
 
