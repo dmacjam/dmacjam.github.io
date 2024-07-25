@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jakub Macina
-email: jakub.macina@gmail.com
+title: jakub@macina.sk
+email: jakub@macina.sk
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
-  Jakub Macina is a Machine Learning Researcher working at the intersection of NLP and Learning Sciences.
+  Jakub Macina is a Machine Learning Researcher.
 twitter_username: dmacjam
 github_username: dmacjam
 minimal_mistakes_skin: default
@@ -60,8 +60,8 @@ plugins:
 author:
   name   : "Jakub Macina"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Machine Learning Researcher (NLP & Learning Sciences)."
-  email  : "jakub.macina@gmail.com"
+  bio    : "Machine Learning Researcher"
+  email  : "jakub@macina.sk"
   links:
     - label: "ETH AI Center"
       icon: "fas fa-fw fa-briefcase"
@@ -69,9 +69,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dmacjam"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dmacjam"
@@ -84,6 +81,9 @@ footer:
     - label: "Stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/2591068/jakub-macina"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dmacjam"
 
 defaults:
   # _posts
