@@ -1,0 +1,131 @@
+/* assets/css/custom.css */
+
+h1 {
+    font-family: 'Inter', 'Helvetica Neue', sans-serif; /* Clean and modern font */
+    font-weight: 700; /* Bold for emphasis */
+    font-size: clamp(24px, 4vw, 48px); /* Responsive font size */
+    color: #333; /* Dark grey for high contrast */
+    text-align: center; /* Centered for prominence */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    line-height: 1.2; /* Adjust line height for readability */
+    letter-spacing: -0.5px; /* Slightly tighter letter spacing */
+}
+
+/* Paragraph Styling */
+p {
+    font-family: 'Inter', 'Helvetica Neue', sans-serif; /* Consistent font for body text */
+    font-weight: 400; /* Normal weight for readability */
+    font-size: clamp(14px, 2vw, 22px); /* Responsive font size */
+    color: #555; /* Slightly lighter grey for text */
+    text-align: left; /* Centered for visual harmony */
+    margin: 1em auto; /* Space around the paragraph */
+    max-width: 800px; /* Maximum width for readability */
+    line-height: 1.6; /* Improved line spacing */
+    letter-spacing: 0.5px; /* Slightly increased letter spacing for readability */
+}
+
+.nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between tiles */
+    margin-bottom: 20px;
+}
+
+/* Common styling for navigation links */
+.nav-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif; /* Apply the Montserrat font */
+    font-weight: 500; /* Medium weight for balance */
+    font-size: 1.1em;
+    padding: 20px;
+    border-radius: 10px;
+    width: calc(50% - 10px); /* Two items per row with a gap */
+    box-sizing: border-box;
+    color: #333; /* Dark text color for readability */
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #f5f5f5; /* Light grey background */
+    border: 1px solid #ddd; /* Subtle border for separation */
+}
+
+/* Hover effect for navigation links */
+.nav-link:hover {
+    transform: scale(1.05); /* Slightly enlarge the tile */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Larger shadow on hover */
+}
+
+/* Remove visited link color */
+.nav-link:visited {
+    color: #ffffff; /* Ensure the color remains white */
+}
+
+/* Styling for individual links */
+.link-experience {
+    background-color: rgba(0, 123, 255, 0.7); /* Blue with transparency */
+}
+
+.link-talks {
+    background-color: rgba(40, 167, 69, 0.8); /* Green with transparency */
+}
+
+.link-research {
+    background-color: rgba(220, 53, 69, 0.8); /* Red with transparency */
+}
+
+.link-publications {
+    background-color: rgba(255, 193, 7, 0.8); /* Yellow with transparency */
+}
+
+/* SVG icon container styling */
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.nav-link svg {
+    margin-right: 15px;
+    fill: currentColor;
+}
+
+.collapsible-content {
+    display: none;
+    transition: max-height 0.3s ease-out;
+}
+
+.collapsible-content.show {
+    display: block;
+}
+
+.collapsible-header {
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    margin-bottom: 0;
+    font-size: 1.25em;
+}
+
+.toggle-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+}
+
+.collapsible-header .toggle-icon.rotate {
+    transform: rotate(90deg);
+}
