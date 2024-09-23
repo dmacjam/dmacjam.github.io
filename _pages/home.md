@@ -208,7 +208,7 @@ Recommender Systems and Personalization
     <a href="https://arxiv.org/pdf/2407.09136" target="_blank">
     <b>Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors</b></a>
     <br>Nico Daheim*, <b>Jakub Macina*</b>, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>arxiv</i><br>
+    <i>EMNLP 2024</i><br>
     <br>
     </ui>
     <ui>
