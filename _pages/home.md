@@ -7,16 +7,14 @@ permalink: /
 <script src="{{ '/assets/custom.js' | relative_url }}"></script>
 
 
-<h1>JAKUB MACINA <br>HUMAN-CENTRIC AI LEARNING</h1>
+<h1>JAKUB MACINA <br>HUMAN-CENTRIC AI (FOR) LEARNING</h1>
 
 <div class="author__avatar">
   <img src="/assets/images/bio-photo.jpeg" alt="Jakub Macina" itemprop="image" style="max-width: 200px;"> 
 </div>
 <p>AI & ML Researcher, Engineer, Educator, Entrepreneur and Speaker.
 </p>
-
-
-
+<p>PhD at ETH Zurich, machine learning (ML) and natural language processing (NLP) for more effective human-AI collaboration. </p>
 
 
 <nav class="nav-container">
@@ -47,7 +45,7 @@ permalink: /
 
 Experience in software engineering, machine learning research, education and e-commerce. Jakub is Forbes 30 under 30 in the category of Science and Education.
 <br><br>
-Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, EACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Advised by <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
+Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Advised by <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
 <br><br>
 Applied research: as a machine learning engineer and senior staff machine learning engineer in one of the fastest-growing startups in Europe (which was <a href="https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/" target="_blank">acquired by Bloomreach</a> in 2021). Responsible for building large-scale machine learning training and inference pipelines from scratch for a product recommender system platform used by hundreds of clients. 
 <br><br>
@@ -70,19 +68,19 @@ Open-source development: I have contributed to open-source projects such as Disc
 </h3>
 <div id="research" class="collapsible-content">
 <p>
-Artificial Intelligence, Machine Learning, and Natural Language Processing
+Artificial Intelligence, Machine Learning, Natural Language Processing, all combined with Human Computer Interaction.
 <br><br>
 Understanding the reasoning and pedagogical capabilities of generative large language models (LLMs such as GPT, T5, Flan-T5, BART, LLAMA).
 <br><br>
-Neural Language Generation and Dialogue Systems
+Neural Language Generation and Dialogue Systems, focus on Pedagogical Alignment and Fine-tuning of LLMs for Tutoring.
 <br><br>
-Reasoning and Math Word Problem Solving
+Reasoning and Math Word Problem Solving.
 <br><br>
-Evaluation of Large Language Models
+Evaluation of Large Language Models.
 <br><br>
-Question Answering and Question Generation
+Question Answering and Question Generation.
 <br><br>
-Recommender Systems and Personalization
+Recommender Systems and Personalization.
 </p>
 </div>
 
@@ -93,9 +91,16 @@ Recommender Systems and Personalization
 <table>
 <tbody>
     <tr>
+    <td width="40%">2024</td>
+    <td>
+    Battle: Human vs. AI, <a href="https://narovinu.online/battle-ludia-vs-stroje/" target="_blank">Forbes Business Fest</a>, Bratislava
+    </td>
+    </tr>
+
+    <tr>
     <td width="40%">2023</td>
     <td>
-    LLMs for Tutoring, AI in Education, <a href="https://ai.ethz.ch/industry/AIplusX.html" target="_blank">AI+X Summit 2023</a>, Zurich
+    LLMs for Tutoring: Socratic Questioning and Scaffolding, AI in Education, <a href="https://ai.ethz.ch/industry/AIplusX.html" target="_blank">AI+X Summit 2023</a>, Zurich
     </td>
     </tr>
 
@@ -205,6 +210,13 @@ Recommender Systems and Personalization
 <div id="publications" class="collapsible-content">
 <ul class="emlist">
     <ui>
+    <a href="https://arxiv.org/pdf/2410.03781" target="_blank">
+    <b>Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure</b></a>
+    <br>Romain Puech, <b>Jakub Macina</b>, Julia Chatain, Mrinmaya Sachan, Manu Kapur<br>
+    <i>preprint</i><br>
+    <br>
+    </ui>
+    <ui>
     <a href="https://arxiv.org/pdf/2407.09136" target="_blank">
     <b>Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors</b></a>
     <br>Nico Daheim*, <b>Jakub Macina*</b>, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
@@ -215,14 +227,14 @@ Recommender Systems and Personalization
     <a href="https://arxiv.org/pdf/2403.03307" target="_blank">
     <b>Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots</b></a>
     <br>Junling Wang, <b>Jakub Macina</b>, Nico Daheim, Sankalan Pal Chowdhury, Mrinmaya Sachan<br>
-    <i>ACL 2024 (Findings)</i><br>
+    <i>ACL 2024 Findings</i><br>
     <br>
     </ui>
     <ui>
     <a href="https://aclanthology.org/2023.findings-emnlp.372/" target="_blank">
     <b>MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems</b></a>
     <br><b>Jakub Macina*</b>, Nico Daheim*, Sankalan Pal Chowdhury*, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EMNLP 2023 (Findings)</i><br><a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-13/6a13y89/mathdial-emnlp23-v5.mp4" target="_blank">Video</a><br>
+    <i>EMNLP 2023 Findings</i><br><a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-13/6a13y89/mathdial-emnlp23-v5.mp4" target="_blank">Video</a><br>
     <br>
     </ui>
     <ui>
