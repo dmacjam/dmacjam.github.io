@@ -165,7 +165,7 @@ Recommender Systems and Personalization.
     </td>
     </tr>
 
-
+    <tr>
     <td width="40%">2024</td>
     <td>
     <a href="https://rycolab.io/classes/llm-s24/" target="_blank">Large Language Models</a>, ETH Zurich - <a href="https://drive.google.com/file/d/14XAM_Qr8iRjdXdVjKyIl_X7gBIcH5rtb/view?usp=sharing" target="_blank">Lecture Notes</a>
