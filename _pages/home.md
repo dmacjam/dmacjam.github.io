@@ -114,7 +114,7 @@ Recommender Systems and Personalization.
     <tr>
     <td>2022</td>
     <td>
-    Personalized Learning, ETH AI Center Doctoral Symposium, ETH Zurich
+    Feedback Generation for Personalized Learning, ETH AI Center Doctoral Symposium, ETH Zurich
     </td>
     </tr>
 
@@ -128,14 +128,14 @@ Recommender Systems and Personalization.
     <tr>
     <td>2018</td>
     <td>
-    Realtime personalized embedding, Python Conference (PyCon), Bratislava
+    Realtime Personalized Customer Embeddings, Python Conference (PyCon), Bratislava
     </td>
     </tr>
 
     <tr>
     <td>2018</td>
     <td>
-    Improving Search at Discourse, Google Developer Group (GDG), Zurich
+    Tuning Search at Scale (Discourse open source project), Google Developer Group (GDG), Zurich
     </td>
     </tr>
 
@@ -149,7 +149,7 @@ Recommender Systems and Personalization.
     <tr>
     <td>2018</td>
     <td>
-    Embedding-based recommendations, Google Launchpad, Warsaw
+    Embedding-based Product Recommendation, Google Launchpad, Warsaw
     </td>
     </tr>
 </tbody>
@@ -161,35 +161,42 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2024</td>
     <td>
-    Large Language Models, ETH Zurich    
+    <a href="https://lre.inf.ethz.ch/teaching_aie24/" target="_blank">Artificial Intelligence in Education</a>, Head TA, ETH Zurich    
+    </td>
+    </tr>
+
+
+    <td width="40%">2024</td>
+    <td>
+    <a href="https://rycolab.io/classes/llm-s24/" target="_blank">Large Language Models</a>, ETH Zurich - <a href="https://drive.google.com/file/d/14XAM_Qr8iRjdXdVjKyIl_X7gBIcH5rtb/view?usp=sharing" target="_blank">Lecture Notes</a>
     </td>
     </tr>
 
     <tr>
     <td>2022</td>
     <td>
-    Artificial Intelligence in Education, Head TA, ETH Zurich    
+    <a href="https://lre.inf.ethz.ch/teaching_aie22/" target="_blank">Artificial Intelligence in Education</a>, Head TA, ETH Zurich    
     </td>
     </tr>
 
     <tr>
     <td>2021</td>
     <td>
-    Artificial Intelligence in Education, ETH Zurich    
+    <a href="https://lre.inf.ethz.ch/teaching_aie21/" target="_blank">Artificial Intelligence in Education</a>, ETH Zurich    
     </td>
     </tr>
 
     <tr>
     <td>2019</td>
     <td>
-    Text-based Information Retrieval, Slovak University of Technology
+    <a href="https://slideplayer.com/slide/17691997/" target="_blank">Text-based Information Retrieval</a>, Slovak University of Technology
     </td>
     </tr>
 
     <tr>
     <td>2019</td>
     <td>
-    Artificial Intelligence, Slovak University of Technology
+    <a href="https://web.archive.org/web/20191119064512/http://www2.fiit.stuba.sk/~kapustik/ui.html" target="_blank">Artificial Intelligence</a>, Slovak University of Technology
     </td>
     </tr>
 
