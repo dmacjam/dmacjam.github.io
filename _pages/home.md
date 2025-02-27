@@ -7,7 +7,7 @@ permalink: /
 <script src="{{ '/assets/custom.js' | relative_url }}"></script>
 
 
-<h1>JAKUB MAčINA <br>Human-centered AI for Learning and Reasoning</h1>
+<h1>Jakub Mačina <br>Human-centered AI for Learning and Reasoning</h1>
 
 <div class="author__avatar">
   <img src="/assets/images/bio-photo.jpeg" alt="Jakub Macina" itemprop="image" style="max-width: 200px;"> 
