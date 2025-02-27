@@ -7,7 +7,7 @@ permalink: /
 <script src="{{ '/assets/custom.js' | relative_url }}"></script>
 
 
-<h1>JAKUB MACINA <br>HUMAN-CENTRIC AI (FOR) LEARNING</h1>
+<h1>JAKUB MACINA <br>Human-centered AI for Learning and Reasoning</h1>
 
 <div class="author__avatar">
   <img src="/assets/images/bio-photo.jpeg" alt="Jakub Macina" itemprop="image" style="max-width: 200px;"> 
@@ -91,6 +91,13 @@ Recommender Systems and Personalization.
 <table>
 <tbody>
     <tr>
+    <td width="40%">2025</td>
+    <td>
+    Generative AI for Education, ETH AI Center, Zurich
+    </td>
+    </tr>
+
+    <tr>
     <td width="40%">2024</td>
     <td>
     Battle: Human vs. AI, <a href="https://narovinu.online/battle-ludia-vs-stroje/" target="_blank">Forbes Business Fest</a>, Bratislava
@@ -159,6 +166,13 @@ Recommender Systems and Personalization.
 <table>
 <tbody>
     <tr>
+    <td width="40%">2025</td>
+    <td>
+    <a href="https://rycolab.io/classes/llm-s25/" target="_blank">Large Language Models</a>, ETH Zurich - <a href="https://drive.google.com/file/d/14XAM_Qr8iRjdXdVjKyIl_X7gBIcH5rtb/view?usp=sharing" target="_blank">Lecture Notes</a>
+    </td>
+    </tr>
+
+    <tr>
     <td width="40%">2024</td>
     <td>
     <a href="https://lre.inf.ethz.ch/teaching_aie24/" target="_blank">Artificial Intelligence in Education</a>, Head TA, ETH Zurich    
@@ -217,6 +231,13 @@ Recommender Systems and Personalization.
 <div id="publications" class="collapsible-content">
 <ul class="emlist">
     <ui>
+    <a href="https://arxiv.org/abs/2502.18940" target="_blank">
+    <b>MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors</b></a>
+    <br><b>Jakub Macina</b>, Nico Daheim, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
+    <i>preprint</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
+    <br>
+    </ui>
+    <ui>
     <a href="https://arxiv.org/pdf/2410.03781" target="_blank">
     <b>Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure</b></a>
     <br>Romain Puech, <b>Jakub Macina</b>, Julia Chatain, Mrinmaya Sachan, Manu Kapur<br>
@@ -228,6 +249,7 @@ Recommender Systems and Personalization.
     <b>Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors</b></a>
     <br>Nico Daheim*, <b>Jakub Macina*</b>, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
     <i>EMNLP 2024</i><br><a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-25/wh03ux7/emnlp-verifiers-full-v2.mp4" target="_blank">Video</a><br>
+    <a href="https://eth-lre.github.io/verify-then-generate/" target="_blank">Website</a><br>
     <br>
     </ui>
     <ui>
