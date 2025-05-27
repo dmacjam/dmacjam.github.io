@@ -93,6 +93,20 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2025</td>
     <td>
+    Tutorial: LLMs for Education, <a href="https://sig-edu.org/bea/2025#llms-for-education-understanding-the-needs-of-stakeholders-current-capabilities-and-the-path-forward" target="_blank">BEA Workshop at ACL 2025</a>, Vienna
+    </td>
+    </tr>
+
+    <tr>
+    <td width="40%">2025</td>
+    <td>
+    LLMs for Tutoring, EU Research Visit, Zurich
+    </td>
+    </tr>
+
+    <tr>
+    <td width="40%">2025</td>
+    <td>
     Generative AI for Education, ETH AI Center, Zurich
     </td>
     </tr>
@@ -231,6 +245,13 @@ Recommender Systems and Personalization.
 <div id="publications" class="collapsible-content">
 <ul class="emlist">
     <ui>
+    <a href="https://arxiv.org/abs/2505.15607" target="_blank">
+    <b>From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning</b></a>
+    <br>David Dinucu-Jianu*, <b>Jakub Macina*</b>, Nico Daheim, Ido Hakimi, Iryna Gurevych, Mrinmaya Sachan<br>
+    <i>preprint</i><br>
+    <br>
+    </ui>
+    <ui>
     <a href="https://arxiv.org/abs/2502.18940" target="_blank">
     <b>MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors</b></a>
     <br><b>Jakub Macina</b>, Nico Daheim, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
@@ -241,7 +262,14 @@ Recommender Systems and Personalization.
     <a href="https://arxiv.org/pdf/2410.03781" target="_blank">
     <b>Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure</b></a>
     <br>Romain Puech, <b>Jakub Macina</b>, Julia Chatain, Mrinmaya Sachan, Manu Kapur<br>
-    <i>preprint</i><br>
+    <i>ACL 2025 Findings</i><br>
+    <br>
+    </ui>
+    <ui>
+    <a href="" target="_blank">
+    <b>Can LLMs Effectively Simulate Human Learners? Teachers’ Insights from Tutoring LLM Students</b></a>
+    <br>Daria Martynova, <b>Jakub Macina</b>, Nico Daheim, Xiaoyu Zhang, Ozge Nilay Yalcin, Mrinmaya Sachan<br>
+    <i>ACL 2025, BEA Workshop</i><br>
     <br>
     </ui>
     <ui>
