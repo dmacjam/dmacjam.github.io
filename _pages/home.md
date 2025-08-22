@@ -93,6 +93,13 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2025</td>
     <td>
+    Aligning LLMs with Pedagogy using Reinforcement Learning, <a href="https://www.plusx.ai/2025-program/ai-%2B-education" target="_blank">AI+X Summit</a>, Zurich
+    </td>
+    </tr>
+
+    <tr>
+    <td width="40%">2025</td>
+    <td>
     Tutorial: LLMs for Education, <a href="https://sig-edu.org/bea/2025#llms-for-education-understanding-the-needs-of-stakeholders-current-capabilities-and-the-path-forward" target="_blank">BEA Workshop at ACL 2025</a>, Vienna
     </td>
     </tr>
@@ -248,14 +255,14 @@ Recommender Systems and Personalization.
     <a href="https://arxiv.org/abs/2505.15607" target="_blank">
     <b>From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning</b></a>
     <br>David Dinucu-Jianu*, <b>Jakub Macina*</b>, Nico Daheim, Ido Hakimi, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>preprint</i><br>
+    <i>EMNLP 2025</i><br><a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">HF Model</a><br>
     <br>
     </ui>
     <ui>
     <a href="https://arxiv.org/abs/2502.18940" target="_blank">
     <b>MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors</b></a>
     <br><b>Jakub Macina</b>, Nico Daheim, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>preprint</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
+    <i>EMNLP 2025</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
     <br>
     </ui>
     <ui>
