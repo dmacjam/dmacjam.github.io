@@ -255,14 +255,14 @@ Recommender Systems and Personalization.
     <a href="https://arxiv.org/abs/2505.15607" target="_blank">
     <b>From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning</b></a>
     <br>David Dinucu-Jianu*, <b>Jakub Macina*</b>, Nico Daheim, Ido Hakimi, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EMNLP 2025</i><br><a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">HF Model</a><br>
+    <i>EMNLP 2025 Oral</i><br><a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">HF Model</a><br>
     <br>
     </ui>
     <ui>
     <a href="https://arxiv.org/abs/2502.18940" target="_blank">
     <b>MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors</b></a>
     <br><b>Jakub Macina</b>, Nico Daheim, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EMNLP 2025</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
+    <i>EMNLP 2025 Oral</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
     <br>
     </ui>
     <ui>
@@ -305,7 +305,7 @@ Recommender Systems and Personalization.
     <a href="https://aclanthology.org/2023.eacl-main.173/" target="_blank">
     <b>Opportunities and Challenges in Neural Dialog Tutoring</b></a>
     <br><b>Jakub Macina*</b>, Nico Daheim*, Lingzhi Wang, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EACL 2023</i><br><a href="https://aclanthology.org/2023.eacl-main.173.mp4" target="_blank">Video</a><br>
+    <i>EACL 2023 Oral</i><br><a href="https://aclanthology.org/2023.eacl-main.173.mp4" target="_blank">Video</a><br>
     <br>
     </ui>
     <ui>
@@ -344,7 +344,7 @@ Recommender Systems and Personalization.
     <a href="https://dl.acm.org/doi/10.1145/3109859.3109886" target="_blank">
     <b>Educational question routing in online student communities</b></a>
     <br><b>Jakub Macina</b>, Ivan Srba, Joseph Jay Williams, Maria Bielikova<br>
-    <i>RecSys 2017: Proceedings of the Eleventh ACM Conference on Recommender Systems</i><br><br>
+    <i>RecSys 2017 Oral: Proceedings of the Eleventh ACM Conference on Recommender Systems</i><br><br>
     </ui>
 </ul>
 </div>
