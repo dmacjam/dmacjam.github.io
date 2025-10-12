@@ -255,14 +255,14 @@ Recommender Systems and Personalization.
     <a href="https://arxiv.org/abs/2505.15607" target="_blank">
     <b>From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning</b></a>
     <br>David Dinucu-Jianu*, <b>Jakub Macina*</b>, Nico Daheim, Ido Hakimi, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EMNLP 2025 Oral</i><br><a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">HF Model</a><br>
+    <i>EMNLP 2025 Oral</i><br><a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">HF Model</a><br><a href="https://paperform.co/file/s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2025-10-10/zl42x16/EMNLP%202025_main-44-Presentation.mp4" target="_blank">Video</a><br>
     <br>
     </ui>
     <ui>
     <a href="https://arxiv.org/abs/2502.18940" target="_blank">
     <b>MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors</b></a>
     <br><b>Jakub Macina</b>, Nico Daheim, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
-    <i>EMNLP 2025 Oral</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br>
+    <i>EMNLP 2025 Oral</i><br><a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">Website</a><br><a href="https://paperform.co/file/s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2025-10-10/er73zra/mathtutorbench-video.mp4" target="_blank">Video</a>
     <br>
     </ui>
     <ui>
