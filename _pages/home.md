@@ -7,15 +7,13 @@ permalink: /
 <script src="{{ '/assets/custom.js' | relative_url }}"></script>
 
 
-<h1>Jakub Mačina <br>Human-centered AI for Learning and Reasoning</h1>
+<h1>Jakub Mačina</h1>
 
 <div class="author__avatar">
   <img src="/assets/images/bio-photo.jpeg" alt="Jakub Macina" itemprop="image" style="max-width: 200px;"> 
 </div>
-<p>AI & ML Researcher, Engineer, Educator, Entrepreneur and Speaker.
+<p>AI & ML Researcher, Engineer, Educator, Entrepreneur and Speaker. Forbes 30u30. PhD from ETH Zurich.
 </p>
-<p>PhD at ETH Zurich, machine learning (ML) and natural language processing (NLP) for more effective human-AI collaboration. </p>
-
 
 <nav class="nav-container">
   <a href="#experience" class="nav-link link-experience">
@@ -45,7 +43,7 @@ permalink: /
 
 Experience in software engineering, machine learning research, education and e-commerce. Jakub is Forbes 30 under 30 in the category of Science and Education.
 <br><br>
-Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Advised by <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
+Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Collaborated with <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
 <br><br>
 Applied research: as a machine learning engineer and senior staff machine learning engineer in one of the fastest-growing startups in Europe (which was <a href="https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/" target="_blank">acquired by Bloomreach</a> in 2021). Responsible for building large-scale machine learning training and inference pipelines from scratch for a product recommender system platform used by hundreds of clients. 
 <br><br>
@@ -90,6 +88,20 @@ Recommender Systems and Personalization.
 <div id="talks" class="collapsible-content">
 <table>
 <tbody>
+    <tr>
+    <td width="40%">2026</td>
+    <td>
+    Aligning LLMs with Pedagogy, <a href="https://memento.epfl.ch/event/ai-in-education-workshop-2/" target="_blank">EPFL AI in Education Workshop</a>, Lausanne
+    </td>
+    </tr>    
+
+    <tr>
+    <td width="40%">2025</td>
+    <td>
+    <a href="https://ethz-foundation.ch/en/spotlight/uplift-21-jakub-macina/" target="_blank">Smarter learning with AI</a>, ETH Zurich Foundation
+    </td>
+    </tr>    
+
     <tr>
     <td width="40%">2025</td>
     <td>
@@ -251,6 +263,13 @@ Recommender Systems and Personalization.
 </h3>
 <div id="publications" class="collapsible-content">
 <ul class="emlist">
+    <ui>
+    <a href="https://www.research-collection.ethz.ch/search?query=jakub%20macina" target="_blank">
+    <b>From Solvers to Teachers: Conversational Models for Learning</b></a>
+    <br><b>Jakub Macina</b><br>
+    <i>ETH Zurich Doctoral Thesis, 2025</i><br>
+    <br>
+    </ui>
     <ui>
     <a href="https://arxiv.org/abs/2505.15607" target="_blank">
     <b>From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning</b></a>
