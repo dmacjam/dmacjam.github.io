@@ -91,6 +91,20 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2026</td>
     <td>
+    LLMs for Reasoning and Tutoring, Research and Development Centre for Large Language Models, National Institute of Informatics, Tokyo
+    </td>
+    </tr>          
+
+    <tr>
+    <td width="40%">2026</td>
+    <td>
+    Aligning LLMs with Pedagogy, Singapore ETH Centre, Singapore
+    </td>
+    </tr>        
+
+    <tr>
+    <td width="40%">2026</td>
+    <td>
     Aligning LLMs with Pedagogy, <a href="https://memento.epfl.ch/event/ai-in-education-workshop-2/" target="_blank">EPFL AI in Education Workshop</a>, Lausanne
     </td>
     </tr>    
