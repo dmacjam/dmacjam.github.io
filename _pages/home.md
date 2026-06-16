@@ -78,7 +78,7 @@ Neural Language Generation and Dialogue Systems, focus on <a href="https://ethz-
 <br><br>
 Evaluation of Large Language Models.
 <br><br>
-<a href="https://github.com/vdlm/meetups" target="_blank">Recommender Systems and Personalization.</a>
+<a href="https://www.linkedin.com/posts/bloomreach_bloomreach-forbesslovensko-30pod30-activity-7063924389683101696-chkg/" target="_blank">Recommender Systems</a> and <a href="https://github.com/vdlm/meetups" target="_blank">Personalization.</a>
 </p>
 </div>
 
@@ -94,12 +94,20 @@ Evaluation of Large Language Models.
      <a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/" target="_blank">Post-training LLMs for Collaboration using Reinforcement Learning</a>, Better AI, Bratislava
     </td>
     </tr>  
+
     <tr>
     <td width="40%">2026</td>
     <td>
      <a href="https://www.nii.ac.jp/en/event/2026/0319.html" target="_blank">LLMs for Reasoning and Tutoring</a>, Research and Development Centre for Large Language Models, National Institute of Informatics, Tokyo
     </td>
-    </tr>          
+    </tr>    
+
+    <tr>
+    <td width="40%">2026</td>
+    <td>
+     <a href="https://ethz.ch/en/news-and-events/eth-news/news/2026/06/how-ai-chatbots-become-better-learning-coaches.html" target="_blank">How AI chatbots become better learning coaches, ETH News</a>
+    </td>
+    </tr>  
 
     <tr>
     <td width="40%">2026</td>
