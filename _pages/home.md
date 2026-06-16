@@ -12,7 +12,7 @@ permalink: /
 <div class="author__avatar">
   <img src="/assets/images/bio-photo.jpeg" alt="Jakub Macina" itemprop="image" style="max-width: 200px;"> 
 </div>
-<p>AI & ML Researcher, Engineer, Educator, Entrepreneur and Speaker. Forbes 30u30. PhD from ETH Zurich.
+<p>AI & ML Researcher, Engineer, Educator, Entrepreneur and Speaker. Forbes 30u30. ELLIS member. PhD from ETH Zurich.
 </p>
 
 <nav class="nav-container">
@@ -43,13 +43,13 @@ permalink: /
 
 Experience in software engineering, machine learning research, education and e-commerce. Jakub is <a href="https://www.linkedin.com/posts/bloomreach_bloomreach-forbesslovensko-30pod30-activity-7063924389683101696-chkg/" target="_blank">Forbes 30 under 30</a> in the category of Science and Education.
 <br><br>
-Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Collaborated with <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
+Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Collaborated with <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>. <a href="https://ellis.eu/person/jakub-macina" target="_blank">ELLIS member.</a>
 <br><br>
 Applied research: as a machine learning engineer and senior staff machine learning engineer in one of the fastest-growing startups in Europe (which was <a href="https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/" target="_blank">acquired by Bloomreach</a> in 2021). Responsible for building large-scale machine learning training and inference pipelines from scratch for a product recommender system platform used by hundreds of clients. 
 <br><br>
 Teaching: I have taught courses on machine learning, large language models, and natural language processing in education at ETH Zurich. I have also given talks at various conferences and meetups.
 <br><br>
-Leadership: Both at the university and professionally, I successfully managed a team of six data scientists and advised more than 12 Master's and Bachelor's theses at ETH Zurich.
+Leadership: Both at the university and professionally, I successfully managed a team of six data scientists and advised more than 15 Master's and Bachelor's theses at ETH Zurich.
 <br><br>
 Entrepreneurship and Product management: I have led projects and defined product requirements that have been successfully launched at scale. Co-founded a startup in a health-tech space with a seed investment, was a member of Entprepreneur First cohort in Berlin.
 <br><br>
