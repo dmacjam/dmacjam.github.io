@@ -91,7 +91,13 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2026</td>
     <td>
-    LLMs for Reasoning and Tutoring, Research and Development Centre for Large Language Models, National Institute of Informatics, Tokyo
+     <a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/">Post-training LLMs for Collaboration using Reinforcement Learning</a>, Better AI, Bratislava
+    </td>
+    </tr>  
+    <tr>
+    <td width="40%">2026</td>
+    <td>
+     <a href="https://www.nii.ac.jp/en/event/2026/0319.html" target="_blank">LLMs for Reasoning and Tutoring</a>, Research and Development Centre for Large Language Models, National Institute of Informatics, Tokyo
     </td>
     </tr>          
 
