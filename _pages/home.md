@@ -41,7 +41,7 @@ permalink: /
 <div id="experience" class="collapsible-content">
 <p>
 
-Experience in software engineering, machine learning research, education and e-commerce. Jakub is Forbes 30 under 30 in the category of Science and Education.
+Experience in software engineering, machine learning research, education and e-commerce. Jakub is <a href="https://www.linkedin.com/posts/bloomreach_bloomreach-forbesslovensko-30pod30-activity-7063924389683101696-chkg/" target="_blank">Forbes 30 under 30</a> in the category of Science and Education.
 <br><br>
 Research-oriented approach: with publications in top-tier conferences such as EMNLP, ACL, RecSys, and NeurIPS. Received ETH AI Center Fellowship (<4% acceptance rate) and research grants in value over 100 000 CHF. Collaborated with <a href="https://inf.ethz.ch/people/person-detail.MjYyNzc4.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html" target="_blank">Prof. Mrinmaya Sachan</a> and <a href="https://gess.ethz.ch/en/the-department/people/person-detail.MjI4ODQy.TGlzdC81MTMsNjE4MTIwODY=.html" target="_blank">Prof. Manu Kapur</a>.
 <br><br>
@@ -66,19 +66,19 @@ Open-source development: I have contributed to open-source projects such as Disc
 </h3>
 <div id="research" class="collapsible-content">
 <p>
-Artificial Intelligence, Machine Learning, Natural Language Processing, all combined with Human Computer Interaction.
+<a href="https://ethz.ch/en/news-and-events/eth-news/news/2026/06/how-ai-chatbots-become-better-learning-coaches.html" target="_blank">Post-training LLMs for Collaboration using Reinforcement Learning</a>
+<br><br>
+Artificial Intelligence, Machine Learning, Reinforcement Learning, Natural Language Processing, all combined with Human Computer Interaction.
 <br><br>
 Understanding the reasoning and pedagogical capabilities of generative large language models (LLMs such as GPT, T5, Flan-T5, BART, LLAMA).
 <br><br>
-Neural Language Generation and Dialogue Systems, focus on Pedagogical Alignment and Fine-tuning of LLMs for Tutoring.
+Neural Language Generation and Dialogue Systems, focus on <a href="https://ethz-foundation.ch/en/spotlight/uplift-21-jakub-macina/" target="_blank">Pedagogical Alignment and Fine-tuning of LLMs for Tutoring</a>.
 <br><br>
-Reasoning and Math Word Problem Solving.
+<a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/" target="_blank">Reasoning and Math Word Problem Solving. Question Answering and Question Generation.</a>
 <br><br>
 Evaluation of Large Language Models.
 <br><br>
-Question Answering and Question Generation.
-<br><br>
-Recommender Systems and Personalization.
+<a href="https://github.com/vdlm/meetups" target="_blank">Recommender Systems and Personalization.</a>
 </p>
 </div>
 
@@ -91,7 +91,7 @@ Recommender Systems and Personalization.
     <tr>
     <td width="40%">2026</td>
     <td>
-     <a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/">Post-training LLMs for Collaboration using Reinforcement Learning</a>, Better AI, Bratislava
+     <a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/" target="_blank">Post-training LLMs for Collaboration using Reinforcement Learning</a>, Better AI, Bratislava
     </td>
     </tr>  
     <tr>
@@ -383,7 +383,7 @@ Recommender Systems and Personalization.
     <a href="https://dl.acm.org/doi/10.1145/3109859.3109886" target="_blank">
     <b>Educational question routing in online student communities</b></a>
     <br><b>Jakub Macina</b>, Ivan Srba, Joseph Jay Williams, Maria Bielikova<br>
-    <i>RecSys 2017 Oral: Proceedings of the Eleventh ACM Conference on Recommender Systems</i><br><br>
+    <i>RecSys 2017 Oral: Proceedings of the Eleventh ACM Conference on Recommender Systems</i><br><a href="https://www.fiit.stuba.sk/buxus/docs/IIT.SRC/2017/CG-macina-2017.pdf" target="_blank">Blog</a><br>
     </ui>
 </ul>
 </div>
