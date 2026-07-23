@@ -91,6 +91,13 @@ Evaluation of Large Language Models.
     <tr>
     <td width="40%">2026</td>
     <td>
+    Productive Failure and Student Simulation using LLMs, Nanyang Technological University, Singapore
+    </td>
+    </tr>  
+
+    <tr>
+    <td width="40%">2026</td>
+    <td>
      <a href="https://betteraimeetup.com/event/deep-thinking-reinforcement-learning-and-benchmarking-for-better-llms/" target="_blank">Post-training LLMs for Collaboration using Reinforcement Learning</a>, Better AI, Bratislava
     </td>
     </tr>  
