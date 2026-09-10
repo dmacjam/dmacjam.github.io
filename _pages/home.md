@@ -91,7 +91,7 @@ Evaluation of Large Language Models.
     <tr>
     <td width="40%">2026</td>
     <td>
-    Productive Failure and Student Simulation using LLMs, Nanyang Technological University, Singapore
+    <a href="https://www.ntu.edu.sg/nie/news-events/events/detail/2026/09/18/default-calendar/can-ai-simulate-human-learners" target="_blank">Productive Failure and Student Simulation using LLMs</a>, Nanyang Technological University, Singapore
     </td>
     </tr>  
 
