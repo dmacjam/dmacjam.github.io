@@ -26,7 +26,7 @@ permalink: /
   </a>
   <a href="#talks" class="nav-link link-talks">
     <svg width="120" height="82" fill="#000000" viewBox="0 0 256 256" id="Flat" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M166.75684,76.30786A75.9872,75.9872,0,0,0,20,103.99219v66a10.01146,10.01146,0,0,0,10,10H89.32764a76.1425,76.1425,0,0,0,70.67236,48h66a10.01146,10.01146,0,0,0,10-10v-66A75.962,75.962,0,0,0,166.75684,76.30786ZM28,169.99219v-66a68,68,0,1,1,68,68H30A2.0023,2.0023,0,0,1,28,169.99219Zm200,48a2.0023,2.0023,0,0,1-2,2H160a68.13741,68.13741,0,0,1-62.00586-40.0506A75.97979,75.97979,0,0,0,169.502,84.66486,67.97326,67.97326,0,0,1,228,151.99219Z"></path> </g></svg>
-    TALKS
+    TALKS & ARTICLES
   </a>
   <a href="#publications" class="nav-link link-publications">
     <svg width="120" height="82" fill="#000000" viewBox="0 0 256 256" id="Flat" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M227.8,52.2a28,28,0,0,0-39.6,0h0a28,28,0,0,0-5.88,8.65l-34.55-9.42A28,28,0,0,0,100.2,28.2h0a28,28,0,0,0-3.47,35.36L57.92,98.49A28,28,0,0,0,20.2,100.2h0a28,28,0,0,0,39.6,39.6l.18-.19,75.31,55.23A28,28,0,1,0,173,183.2l29.55-83.75A28,28,0,0,0,227.8,91.8,28,28,0,0,0,227.8,52.2ZM105.86,33.86h0a20,20,0,1,1,0,28.28A20,20,0,0,1,105.86,33.86Zm-80,100.28a20,20,0,0,1,0-28.28h0a20,20,0,1,1,0,28.28Zm148.28,88a20,20,0,0,1-28.28-28.28h0a20,20,0,0,1,28.28,28.28Zm-8.69-41.59a28,28,0,0,0-25.25,7.65h0l-.18.19L64.71,133.16a28.06,28.06,0,0,0-1.44-28.72l38.81-34.93a28,28,0,0,0,43.6-10.36l34.55,9.42A28,28,0,0,0,195,96.8Zm56.69-94.41a20,20,0,0,1-28.28-28.28h0a20,20,0,0,1,28.28,28.28Z"></path> </g></svg>
@@ -83,11 +83,18 @@ Evaluation of Large Language Models.
 </div>
 
 <h3 id="talks" class="collapsible-header">
-<span class="toggle-icon">▶</span>Talks
+<span class="toggle-icon">▶</span>Talks and Articles
 </h3>
 <div id="talks" class="collapsible-content">
 <table>
 <tbody>
+    <tr>
+    <td width="40%">2026</td>
+    <td>
+    <a href="https://www.stateof.ai/State-of-AI-Report-2026.pdf" target="_blank">State of AI report 2026</a>, contributor and reviewer
+    </td>
+    </tr>  
+
     <tr>
     <td width="40%">2026</td>
     <td>
@@ -298,6 +305,13 @@ Evaluation of Large Language Models.
 </h3>
 <div id="publications" class="collapsible-content">
 <ul class="emlist">
+    <ui>
+    <a href="https://arxiv.org/abs/2610.06446" target="_blank">
+    <b>The Assistance Dilemma: Learning to Teach via Multi-Turn Reinforcement Learning</b></a>
+    <br><b>Jakub Macina</b>, Manu Kapur, Mrinmaya Sachan<br>
+    <i>Preprint 2026</i><br><a href="https://huggingface.co/eth-nlped/Eduardo-27b" target="_blank">HF Model</a><br>
+    <br>
+    </ui>
     <ui>
     <a href="https://www.research-collection.ethz.ch/search?query=jakub%20macina" target="_blank">
     <b>From Solvers to Teachers: Conversational Models for Learning</b></a>
