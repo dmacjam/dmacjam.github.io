@@ -52,7 +52,8 @@ description: "Jakub Mačina trains AI to work with people, not just for them: mu
 <br><br>
 <b>The approach.</b> Post-training with rewards tied to human outcomes, simulated learners and users as RL environments, and benchmarks that measure <i>how</i> a model teaches and collaborates, not just whether it solves the problem. Grounded in how people actually learn: Socratic questioning, scaffolding and <a href="https://ethz-foundation.ch/en/spotlight/uplift-21-jakub-macina/" target="_blank">Productive Failure</a>.
 <br><br>
-Working on RL for reasoning and human–AI collaboration since 2022.
+Learning from user feedback since 2017 (contextual bandits and recommender systems in production) and working on RL for reasoning and human–AI collaboration since 2022.
+<br>
 <b>Selected work</b>
 <br>
 <a href="https://arxiv.org/abs/2610.06446" target="_blank">The Assistance Dilemma</a> (2026): learning to teach via multi-turn RL, with the open <a href="https://huggingface.co/eth-nlped/Eduardo-27b" target="_blank">Eduardo-27B</a> model.
@@ -60,6 +61,8 @@ Working on RL for reasoning and human–AI collaboration since 2022.
 <a href="https://arxiv.org/abs/2505.15607" target="_blank">TutorRL</a> (EMNLP 2025 oral): aligning LLMs to teach instead of answer, with the open <a href="https://huggingface.co/eth-nlped/TutorRL-7B-think" target="_blank">TutorRL-7B</a> model.
 <br>
 <a href="https://eth-lre.github.io/mathtutorbench/" target="_blank">MathTutorBench</a> (EMNLP 2025 oral): a benchmark for the open-ended teaching ability of LLM tutors.
+<br>
+<a href="https://arxiv.org/abs/2407.09136" target="_blank">Stepwise Verification</a> (EMNLP 2024): verifiers that find the first error in a student’s reasoning chain, producing more targeted tutor feedback with fewer hallucinations.
 <br>
 <a href="https://aclanthology.org/2023.findings-emnlp.372/" target="_blank">MathDial</a> (EMNLP 2023): a widely used dataset of teacher–student tutoring dialogues.
 <br>
