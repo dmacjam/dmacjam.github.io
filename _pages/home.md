@@ -148,7 +148,7 @@ More: <a href="https://ethz.ch/en/news-and-events/eth-news/news/2026/06/how-ai-c
     <ui>
     <a href="https://aclanthology.org/2023.findings-emnlp.372/" target="_blank">
     <b>MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems</b></a>
-    <br><b>Jakub Macina*</b>, Nico Daheim*, Sankalan Pal Chowdhury*, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
+    <br><b>Jakub Macina*</b>, Nico Daheim*, Sankalan Pal Chowdhury, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan<br>
     <i>EMNLP 2023 Findings</i><br><a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2023-11-13/6a13y89/mathdial-emnlp23-v5.mp4" target="_blank">Video</a><br>
     <br>
     </ui>
