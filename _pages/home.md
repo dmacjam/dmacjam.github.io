@@ -52,7 +52,7 @@ description: "Jakub Mačina trains AI to work with people, not just for them: mu
 <br><br>
 <b>The approach.</b> Post-training with rewards tied to human outcomes, simulated learners and users as RL environments, and benchmarks that measure <i>how</i> a model teaches and collaborates, not just whether it solves the problem. Grounded in how people actually learn: Socratic questioning, scaffolding and <a href="https://ethz-foundation.ch/en/spotlight/uplift-21-jakub-macina/" target="_blank">Productive Failure</a>.
 <br><br>
-Learning from user feedback since 2017 (contextual bandits and recommender systems in production) and working on RL for reasoning and human–AI collaboration since 2022.
+Learning from user feedback since 2017 (contextual bandits and recommender systems in production) and working on post-training/RL for reasoning and human–AI collaboration since 2021.
 <br>
 <b>Selected work</b>
 <br>
